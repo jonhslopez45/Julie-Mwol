@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/jonhslopez">jonhslopez</a> to mak
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jonhslopez45/Julie-Mwolol) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/Julie-Mwol
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@jonhslopez/JulieMwol)
   
